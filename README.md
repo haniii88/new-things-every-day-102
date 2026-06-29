@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 102 */
-/* Builds a simple execution summary with formatted tim */
+/* Builds a simple execution summary with formatted time */
 
 function dailyLog102() {
     const now = new Date();
